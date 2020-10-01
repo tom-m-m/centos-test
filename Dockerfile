@@ -1,4 +1,4 @@
-FROM docker.io/centos:8
+FROM t36965/centos-test:latest
 
 RUN yum -y install wget
 
