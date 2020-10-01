@@ -1,4 +1,4 @@
-FROM centos:8
+FROM docker.io/centos:8
 
 RUN yum -y install wget
 
